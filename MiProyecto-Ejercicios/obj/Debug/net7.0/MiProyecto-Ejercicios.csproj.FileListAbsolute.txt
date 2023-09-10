@@ -1,0 +1,15 @@
+C:\Users\aferr\Documents\Documentos\Programacion VI\MiProyecto-Ejercicios\bin\Debug\net7.0\MiProyecto-Ejercicios.exe
+C:\Users\aferr\Documents\Documentos\Programacion VI\MiProyecto-Ejercicios\bin\Debug\net7.0\MiProyecto-Ejercicios.deps.json
+C:\Users\aferr\Documents\Documentos\Programacion VI\MiProyecto-Ejercicios\bin\Debug\net7.0\MiProyecto-Ejercicios.runtimeconfig.json
+C:\Users\aferr\Documents\Documentos\Programacion VI\MiProyecto-Ejercicios\bin\Debug\net7.0\MiProyecto-Ejercicios.dll
+C:\Users\aferr\Documents\Documentos\Programacion VI\MiProyecto-Ejercicios\bin\Debug\net7.0\MiProyecto-Ejercicios.pdb
+C:\Users\aferr\Documents\Documentos\Programacion VI\MiProyecto-Ejercicios\obj\Debug\net7.0\MiProyecto-Ejercicios.csproj.AssemblyReference.cache
+C:\Users\aferr\Documents\Documentos\Programacion VI\MiProyecto-Ejercicios\obj\Debug\net7.0\MiProyecto-Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aferr\Documents\Documentos\Programacion VI\MiProyecto-Ejercicios\obj\Debug\net7.0\MiProyecto-Ejercicios.AssemblyInfoInputs.cache
+C:\Users\aferr\Documents\Documentos\Programacion VI\MiProyecto-Ejercicios\obj\Debug\net7.0\MiProyecto-Ejercicios.AssemblyInfo.cs
+C:\Users\aferr\Documents\Documentos\Programacion VI\MiProyecto-Ejercicios\obj\Debug\net7.0\MiProyecto-Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\aferr\Documents\Documentos\Programacion VI\MiProyecto-Ejercicios\obj\Debug\net7.0\MiProyecto-Ejercicios.dll
+C:\Users\aferr\Documents\Documentos\Programacion VI\MiProyecto-Ejercicios\obj\Debug\net7.0\refint\MiProyecto-Ejercicios.dll
+C:\Users\aferr\Documents\Documentos\Programacion VI\MiProyecto-Ejercicios\obj\Debug\net7.0\MiProyecto-Ejercicios.pdb
+C:\Users\aferr\Documents\Documentos\Programacion VI\MiProyecto-Ejercicios\obj\Debug\net7.0\MiProyecto-Ejercicios.genruntimeconfig.cache
+C:\Users\aferr\Documents\Documentos\Programacion VI\MiProyecto-Ejercicios\obj\Debug\net7.0\ref\MiProyecto-Ejercicios.dll
